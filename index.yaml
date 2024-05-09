@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mosip-mor:
+  - apiVersion: v2
+    appVersion: 1.21.1
+    created: "2024-05-09T07:44:41.082927+01:00"
+    description: A Helm chart for NGINX
+    digest: e2a94dca0375108be3cd6949d6f7d40d10a7e1db8af199c9e1d43dd4d20efe68
+    name: mosip-mor
+    urls:
+    - https://kawtarUSL.github.io/helm-charts/mosip-mor-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-09T07:44:41.081314+01:00"
